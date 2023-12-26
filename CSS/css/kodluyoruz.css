@@ -1,0 +1,62 @@
+article{
+    list-style-position: inside;
+    text-align: center;
+    color: blueviolet;
+
+}
+p{
+ color:rgb(77, 47, 138);
+ font-family: 'Open Sans', sans-serif;
+}
+h1{
+    list-style-position: inside;
+    text-align: center; 
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2 {
+    list-style-position: inside;
+    text-align: center; 
+    color:rgb(255, 0, 187);
+    font-family:'Times New Roman', Times, serif;
+}
+
+h3 {
+    color:rgb(255, 0, 187);
+}
+
+header{
+    background-color: #96bad4;
+    color:white;   
+    padding: 20px;
+}
+
+li{
+    list-style-position: inside;
+    text-align: center;
+    color:rgb(77, 47, 138);
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    padding:0;
+    margin: 0;
+}
+a{
+    color: rgb(73, 66, 228);
+}
+
+#section2 {
+    background-color: #96bad4;
+    border: 1px solid #86c8ec;
+    margin: 10px;
+    padding: 20px;
+}
+#section3 {
+    background-color: #afc9dc;
+    border: 1px solid #86c8ec;
+    margin: 10px;
+    padding: 20px;
+}

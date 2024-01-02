@@ -1,5 +1,5 @@
                                                       Hobi Sitesi
-![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/0b1f2a95-84f4-4d39-b807-3b69dc285cd2)
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/2bc29a35-8d95-4fd8-90f3-cb7fe3a35f25)
 
 ![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/fcfa79ad-466c-46ff-8052-da72a274a42e)
 

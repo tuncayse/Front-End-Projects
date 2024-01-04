@@ -1,3 +1,7 @@
+                                                      
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/2bc29a35-8d95-4fd8-90f3-cb7fe3a35f25)
+
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/fcfa79ad-466c-46ff-8052-da72a274a42e)
 
 ![Ekran görüntüsü 2023-12-26 222352](https://github.com/tuncayse/Front-End-Projects/assets/143759353/014a105c-b979-4fe4-a722-27da1743379c)
 
@@ -5,3 +9,10 @@
 
 ![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/d53a0230-bfaf-49fc-a697-9d406e005a6c)
 
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/0f9b2147-f86b-420d-9187-67097597f92f)
+
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/b4aadef4-1bfc-419a-9d9b-49d7e58487f1)
+
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/ea2ae276-c82d-42ab-9f02-2479c1391147)
+
+![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/fb7580af-7fc2-4fb0-a9af-2b9f2326d754)

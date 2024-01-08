@@ -1,7 +1,10 @@
+
+![screencapture-127-0-0-1-5500-instagramclone-index-html-2024-01-09-02_12_44](https://github.com/tuncayse/Front-End-Projects/assets/143759353/37a5f168-2eb0-4357-bb3a-609d1e120099)
+
+
 ![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/7a4312ef-857a-4c79-993a-ca7e3783dc06)
 
 ![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/0981fe8d-49db-4bd9-8516-54467c7d66f4)
-
 
                                                       
 ![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/2bc29a35-8d95-4fd8-90f3-cb7fe3a35f25)

@@ -1,6 +1,5 @@
 
-
-
+![screencapture-127-0-0-1-5500-instagramclone-index-html-2024-01-10-13_00_53](https://github.com/tuncayse/Front-End-Projects/assets/143759353/b0d0a1c0-8a18-4880-a2b3-83af48233dbc)
 
 ![image](https://github.com/tuncayse/Front-End-Projects/assets/143759353/7a4312ef-857a-4c79-993a-ca7e3783dc06)
 

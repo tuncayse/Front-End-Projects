@@ -1,3 +1,7 @@
+![screencapture-127-0-0-1-5500-04-javascript-kategorisi-asiankitchen-index-html-2024-01-28-18_04_23](https://github.com/tuncayse/Front-End-Projects/assets/143759353/5111e230-8205-4e30-9b5d-42cbd847b5eb)
+
+![screencapture-127-0-0-1-5500-04-javascript-kategorisi-asiankitchen-index-html-2024-01-28-18_04_47](https://github.com/tuncayse/Front-End-Projects/assets/143759353/0b93e9b7-48c0-4fa9-a369-cb30508833bb)
+
 
 ![screencapture-127-0-0-1-5500-index-html-2024-01-15-22_47_15](https://github.com/tuncayse/Front-End-Projects/assets/143759353/a914b5b0-ce69-4bd4-9c81-86e19e0c3e4f)
 
